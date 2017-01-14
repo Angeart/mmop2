@@ -1,0 +1,3 @@
+[submodule "stx"]
+	path = stx
+	url = https://github.com/Angeart/stx.git
